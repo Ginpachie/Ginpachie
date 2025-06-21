@@ -8,8 +8,6 @@ Hi, Yami here
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Ginpachie&theme=dark&hide_border=true)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ginpachie&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
